@@ -8,7 +8,10 @@
 #
 
 def print_full_name(first, last):
-    print("Hello!")
+    line_1 = "Hello "
+    outputString = line_1 + first
+    print(outputString)
+
 
 if __name__ == '__main__':
     first_name = input()
