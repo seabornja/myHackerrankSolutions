@@ -8,7 +8,7 @@
 #
 
 def print_full_name(first, last):
-    # Write your code here
+    print("Hello!")
 
 if __name__ == '__main__':
     first_name = input()
